@@ -1,2 +1,3 @@
 # palemoon-expire-history-by-days
-Expire history by days addon for PaleMoon
+
+Modified version of [Expire History by Days](https://addons.mozilla.org/firefox/addon/expire-history-by-days/) for [PaleMoon](http://www.palemoon.org/).
