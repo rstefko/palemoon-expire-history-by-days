@@ -6,6 +6,7 @@
     <em:id>{dab82457-a9a5-4066-ac1f-473606341277}</em:id>
     <em:version>1.2.3</em:version>
     <em:bootstrap>true</em:bootstrap>
+    <em:type>2</em:type>
 
     <em:name>Expire history by days</em:name>
     <em:creator>Roman Štefko, Marco Bonardo</em:creator>
