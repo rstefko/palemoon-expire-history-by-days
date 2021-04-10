@@ -4,13 +4,13 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>{dab82457-a9a5-4066-ac1f-473606341277}</em:id>
-    <em:version>1.2.3</em:version>
+    <em:version>1.2.4</em:version>
     <em:bootstrap>true</em:bootstrap>
     <em:type>2</em:type>
 
     <em:name>Expire history by days</em:name>
-    <em:creator>Roman Štefko, Marco Bonardo</em:creator>
-    <em:description>Allows to expire history older than a fixed amount of days.</em:description>
+    <em:creator>Roman Štefko</em:creator>
+    <em:description>Allows to expire history older than a fixed amount of days. Based on Expire History By Days add-on by Marco Bonardo.</em:description>
 
     <em:targetApplication>
       <Description>
